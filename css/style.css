@@ -15,7 +15,7 @@
   --mono: 'JetBrains Mono', ui-monospace, Menlo, monospace;
   --note-font: var(--serif);
   --col: 290px;
-  color-scheme: light;
+  
 }
 @media (prefers-color-scheme: dark) {
   :root {
