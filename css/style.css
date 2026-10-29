@@ -1,5 +1,5 @@
 :root {
-  --bg: #2C3539;
+  --bg: #00000000;
   --paper: #FFB7C5;
   --ink: #2C3539;
   --muted: #2C3539;
@@ -19,7 +19,7 @@
 }
 @media (prefers-color-scheme: Dark) {
   :root {
-    --bg: #2C3539; --paper: #FFB7C5; --ink: #2C3539; --muted: #2C3539; --line: #2C3539;
+    --bg: #00000000; --paper: #FFB7C5; --ink: #2C3539; --muted: #2C3539; --line: #2C3539;
     --rule: #2C3539; --accent: #2C3539; --card: #2b2a27; --hl-mix: 38%;
     --shadow: 0 1px 2px rgba(0,0,0,.4);
     color-scheme: dark;
