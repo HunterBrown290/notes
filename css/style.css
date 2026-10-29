@@ -35,7 +35,7 @@ body {
   min-height: 100vh;
   background-color: #efe9e0;
   background-image: url("../CherryBlossom.jpeg");  
-  background-size: auto;
+  background-size: 80%;
   background-position: center center;
   background-repeat: no-repeat;
   background-attachment: fixed;
