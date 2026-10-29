@@ -30,7 +30,16 @@
 
 * { box-sizing: border-box; }
 html, body { margin: 0; }
-body { background: var(--bg); color: var(--ink); font: 14px/1.45 var(--ui); }
+body {
+  background-color: #efe9e0;
+  background-image: url("../images/CherryBlossom.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  color: var(--ink);
+  font: 14px/1.45 var(--ui);
+}
 button, input, select, textarea { font: inherit; color: inherit; }
 button {
   background: var(--card); border: 1px solid var(--line); border-radius: 6px;
